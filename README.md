@@ -2,9 +2,9 @@
 
 # Deliverable(s)
 
-Tableau Visualization
-Tableau twbx File
-Data Clean-up
+[Tableau Visualization](https://public.tableau.com/shared/5W45NY4ND?:display_count=n&:origin=viz_share_link)<br/>
+[Tableau twbx File](https://github.com/wrighang/18_citi_bike-challenge/blob/main/citi_bike_final.twb)<br/> 
+[Data Clean-up Jupyter Notebook](https://github.com/wrighang/18_citi_bike-challenge/blob/main/citi_bike_cleanup.ipynb)<br/>
 
 ## Background
 Congratulations on your new job! As the new lead analyst for the New York Citi BikeLinks to an external site. program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
